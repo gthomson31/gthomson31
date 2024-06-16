@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>robscott/kube-capacity</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-cloudformation/cfn-lint</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CloudFormation Linter</div>
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aws-solutions/aws-control-tower-customizations</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Customizations for AWS Control Tower solution combines AWS Control Tower and other highly-available, trusted AWS services to help customers more quickly set up a secure, multi-account AWS environment using AWS best practices.</div>
