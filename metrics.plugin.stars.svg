@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>equinor/terraform-azurerm-log-analytics</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Terraform module which creates Azure Log Analytics resources</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mholt/archiver</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DEPRECATED. Please use mholt/archives instead.</div>
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AzBuilder/terrakube</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open source IaC Automation and Collaboration Software.</div>
